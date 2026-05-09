@@ -136,6 +136,12 @@
     "url": "https://cdn.wynntils.com/static/Reference/combat_mapfeatures.json"
   },
   {
+    "id": "dataStaticContentBook",
+    "md5": "049241ff27aee3b0fab61404e345a61d",
+    "path": "Reference/content_book.json",
+    "url": "https://cdn.wynntils.com/static/Reference/content_book.json"
+  },
+  {
     "id": "dataStaticDestinations",
     "md5": "8b296692b963c938f8ece2ef3599bafb",
     "path": "Data-Storage/destinations.json",
@@ -302,12 +308,6 @@
     "md5": "e56f6afca4ee8c3b255e35b9606e25a2",
     "path": "Reference/tools.json",
     "url": "https://cdn.wynntils.com/static/Reference/tools.json"
-  },
-  {
-    "id": "dataStaticContentBook",
-    "md5": "049241ff27aee3b0fab61404e345a61d",
-    "path": "Reference/content_book.json",
-    "url": "https://cdn.wynntils.com/static/Reference/content_book.json"
   },
   {
     "id": "dataStaticUrls",
