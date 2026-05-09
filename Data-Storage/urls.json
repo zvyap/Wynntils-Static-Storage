@@ -304,6 +304,12 @@
     "url": "https://cdn.wynntils.com/static/Reference/tools.json"
   },
   {
+    "id": "dataStaticContentBook",
+    "md5": "049241ff27aee3b0fab61404e345a61d",
+    "path": "Reference/content_book.json",
+    "url": "https://cdn.wynntils.com/static/Reference/content_book.json"
+  },
+  {
     "id": "dataStaticUrls",
     "path": "Data-Storage/urls.json",
     "url": "https://cdn.wynntils.com/static/Data-Storage/urls.json"
