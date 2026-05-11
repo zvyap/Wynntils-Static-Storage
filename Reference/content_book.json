@@ -1367,6 +1367,27 @@
         "location": null
       },
       {
+        "type": "storylineQuest",
+        "name": "King's Recruit",
+        "specialInfo": "\u00a7aStoryline",
+        "description": "",
+        "length": "long",
+        "lengthInfo": "",
+        "difficulty": "easy",
+        "requirements": {
+          "level": 1,
+          "professionLevels": {},
+          "quests": []
+        },
+        "rewards": [
+          "35 XP",
+          "6 Emeralds",
+          "Access to the Province of \u00a77Wynn",
+          "1 Ragni Teleportation \u00a77Scroll"
+        ],
+        "location": null
+      },
+      {
         "type": "quest",
         "name": "Kingdom of Sand",
         "specialInfo": "",
@@ -6284,6 +6305,46 @@
       },
       {
         "type": "worldEvent",
+        "name": "All Eyes on Me",
+        "specialInfo": "\u00a7bEyeball Forest",
+        "description": "\u00a77The focus of their attention is set upon you.",
+        "length": "long",
+        "lengthInfo": "",
+        "difficulty": "medium",
+        "requirements": {
+          "level": 101,
+          "professionLevels": {},
+          "quests": [
+            "A Journey Beyond"
+          ]
+        },
+        "rewards": [
+          "2000000 XP"
+        ],
+        "location": null
+      },
+      {
+        "type": "worldEvent",
+        "name": "Apiary Hive",
+        "specialInfo": "\u00a7bMistwoods",
+        "description": "\u00a77Symbiosis creates new opportunities for animals and people alike, as regular migrations of wasps and bees can be taken advantage of.",
+        "length": "short",
+        "lengthInfo": "",
+        "difficulty": "medium",
+        "requirements": {
+          "level": 115,
+          "professionLevels": {},
+          "quests": [
+            "Revelations in Fall"
+          ]
+        },
+        "rewards": [
+          "4200000 XP"
+        ],
+        "location": null
+      },
+      {
+        "type": "worldEvent",
         "name": "Approaching Raid",
         "specialInfo": "\u00a7bRagni Plains",
         "description": "\u00a77Sieges from undead forces are all but uncommon to soldiers of Wynn.",
@@ -6321,6 +6382,46 @@
           "Various Items and \u00a77Ingredients",
           "Exclusive Item",
           "Decrepit Sewers Key"
+        ],
+        "location": null
+      },
+      {
+        "type": "worldEvent",
+        "name": "Autumn Poachers",
+        "specialInfo": "\u00a7bAuburn Forest",
+        "description": "\u00a77Though most people in the Auburn Forest hold a respect for the nature around them, there are some that have no such reverence.",
+        "length": "long",
+        "lengthInfo": "",
+        "difficulty": "hard",
+        "requirements": {
+          "level": 105,
+          "professionLevels": {},
+          "quests": [
+            "A Journey Home"
+          ]
+        },
+        "rewards": [
+          "2800000 XP"
+        ],
+        "location": null
+      },
+      {
+        "type": "worldEvent",
+        "name": "Biohazardous Bloom",
+        "specialInfo": "\u00a7bRoughworks",
+        "description": "\u00a77The pollution of the Roughworks gives rise to mobile colonies of algae, slime, and septic detritus from the waterways. Cleaning it is a disgustingly necessary, and horrifically dangerous job.",
+        "length": "medium",
+        "lengthInfo": "",
+        "difficulty": "hard",
+        "requirements": {
+          "level": 110,
+          "professionLevels": {},
+          "quests": [
+            "Revelations in Fall"
+          ]
+        },
+        "rewards": [
+          "3800000 XP"
         ],
         "location": null
       },
@@ -6411,6 +6512,26 @@
         },
         "rewards": [
           "15000 XP"
+        ],
+        "location": null
+      },
+      {
+        "type": "worldEvent",
+        "name": "Citadel Barracks",
+        "specialInfo": "\u00a7bAelumia Citadel",
+        "description": "\u00a77The Gendarme are the Crown's most loyal soldiers, unflinchingly accepting orders. The most dangerous enemy is one unafraid to die for their cause.",
+        "length": "short",
+        "lengthInfo": "",
+        "difficulty": "easy",
+        "requirements": {
+          "level": 117,
+          "professionLevels": {},
+          "quests": [
+            "Ensemble of Hope"
+          ]
+        },
+        "rewards": [
+          "6500000 XP"
         ],
         "location": null
       },
@@ -6813,6 +6934,26 @@
       },
       {
         "type": "worldEvent",
+        "name": "Karoshi Union",
+        "specialInfo": "\u00a7bRoughworks",
+        "description": "\u00a77Ground under the wheel of infinite production, many industrial workers lose sight of themselves, the world around them, anything but the job before them.",
+        "length": "medium",
+        "lengthInfo": "",
+        "difficulty": "medium",
+        "requirements": {
+          "level": 108,
+          "professionLevels": {},
+          "quests": [
+            "Revelations in Fall"
+          ]
+        },
+        "rewards": [
+          "3500000 XP"
+        ],
+        "location": null
+      },
+      {
+        "type": "worldEvent",
         "name": "Light Emissaries",
         "specialInfo": "\u00a7bThe Gateway to Light",
         "description": "\u00a77With the encroaching decay, wardens of Light have taken it upon themselves to purge their lands of all foreign things.",
@@ -6887,6 +7028,26 @@
       },
       {
         "type": "worldEvent",
+        "name": "Monument to Loss",
+        "specialInfo": "\u00a7bVoid Valley",
+        "description": "\u00a77Sit long enough in the valley, and you will watch as reality is eaten away, piece by piece... until there is nothing left.",
+        "length": "short",
+        "lengthInfo": "",
+        "difficulty": "medium",
+        "requirements": {
+          "level": 101,
+          "professionLevels": {},
+          "quests": [
+            "A Journey Further"
+          ]
+        },
+        "rewards": [
+          "2000000 XP"
+        ],
+        "location": null
+      },
+      {
+        "type": "worldEvent",
         "name": "Necromantic Site",
         "specialInfo": "\u00a7bDetlas Suburbs",
         "description": "\u00a77The emergence of the Corruption in Wynn has turned once solemn graveyards into rotten armies.",
@@ -6900,6 +7061,27 @@
         },
         "rewards": [
           "1300 XP"
+        ],
+        "location": null
+      },
+      {
+        "type": "worldEvent",
+        "name": "Otherworldly Exhibition",
+        "specialInfo": "\u00a7bUnknown Location",
+        "description": "\u00a77Wounds in the world left by indomitable hunger create unseen passageways for strange and impossible things to wriggle their way into reality. The most deranged see beauty in this indescribable merging of existences.",
+        "length": "long",
+        "lengthInfo": "",
+        "difficulty": "hard",
+        "requirements": {
+          "level": 104,
+          "professionLevels": {},
+          "quests": [
+            "A Journey Beyond",
+            "A Journey Further"
+          ]
+        },
+        "rewards": [
+          "2500000 XP"
         ],
         "location": null
       },
@@ -6921,6 +7103,26 @@
           "Various Items and \u00a77Ingredients",
           "Exclusive Item",
           "Decrepit Sewers Key"
+        ],
+        "location": null
+      },
+      {
+        "type": "worldEvent",
+        "name": "Palace Guards",
+        "specialInfo": "\u00a7bAelumia Citadel",
+        "description": "\u00a77Aelumia's Grand Palace is guarded heavily. Fortunate few get to lay witness to its military parades. To be a rebel within those demonstrations is certain death.",
+        "length": "long",
+        "lengthInfo": "",
+        "difficulty": "hard",
+        "requirements": {
+          "level": 120,
+          "professionLevels": {},
+          "quests": [
+            "Ensemble of Hope"
+          ]
+        },
+        "rewards": [
+          "8000000 XP"
         ],
         "location": null
       },
@@ -6959,6 +7161,44 @@
         },
         "rewards": [
           "220000 XP"
+        ],
+        "location": null
+      },
+      {
+        "type": "worldEvent",
+        "name": "Pestilential Downpour",
+        "specialInfo": "\u00a7bToxic Wastes",
+        "description": "\u00a77Nuclear residue and bile coalesce in the clouds, and then rain down in an acidic shower of flesh-melting fluid. The wastes are cleansed in a torrent of vomit and radioactive effluent.",
+        "length": "medium",
+        "lengthInfo": "",
+        "difficulty": "hard",
+        "requirements": {
+          "level": 102,
+          "professionLevels": {},
+          "quests": [
+            "A Journey Further"
+          ]
+        },
+        "rewards": [
+          "2300000 XP"
+        ],
+        "location": null
+      },
+      {
+        "type": "worldEvent",
+        "name": "Prelude to Annihilation",
+        "specialInfo": "\u00a7bThe Roots of Corruption",
+        "description": "\u00a77Something from the other side roars through the portal with a hatred for all life. Annihilation is coming to the physical plane.",
+        "length": "long",
+        "lengthInfo": "",
+        "difficulty": "hard",
+        "requirements": {
+          "level": 105,
+          "professionLevels": {},
+          "quests": []
+        },
+        "rewards": [
+          "15000 XP"
         ],
         "location": null
       },
@@ -7020,6 +7260,26 @@
       },
       {
         "type": "worldEvent",
+        "name": "Royal Alchemists",
+        "specialInfo": "\u00a7bAelumia Citadel",
+        "description": "\u00a77The Fruman regime is eager to display its advancements to the citadel's populace in order to ensure its people are not tempted into trying magic.",
+        "length": "long",
+        "lengthInfo": "",
+        "difficulty": "medium",
+        "requirements": {
+          "level": 119,
+          "professionLevels": {},
+          "quests": [
+            "Ensemble of Hope"
+          ]
+        },
+        "rewards": [
+          "7000000 XP"
+        ],
+        "location": null
+      },
+      {
+        "type": "worldEvent",
         "name": "Ruff & Tumble",
         "specialInfo": "\u00a7bCanyon of The Lost, North",
         "description": "\u00a77The constantly shifting walls of The Canyon of the Lost leave the region prone to rockslides, uncovering old creatures of stone that were left slumbering in the earth.",
@@ -7033,6 +7293,26 @@
         },
         "rewards": [
           "700000 XP"
+        ],
+        "location": null
+      },
+      {
+        "type": "worldEvent",
+        "name": "Shapes in the Dark",
+        "specialInfo": "\u00a7bRuined Olmic City",
+        "description": "\u00a77Plunge yourself into a darkness darker than darkness, and let unspeakable things reveal themselves to you.",
+        "length": "short",
+        "lengthInfo": "",
+        "difficulty": "hard",
+        "requirements": {
+          "level": 101,
+          "professionLevels": {},
+          "quests": [
+            "A Journey Beyond"
+          ]
+        },
+        "rewards": [
+          "1800000 XP"
         ],
         "location": null
       },
@@ -7110,6 +7390,46 @@
         },
         "rewards": [
           "3000000 XP"
+        ],
+        "location": null
+      },
+      {
+        "type": "worldEvent",
+        "name": "Steel Skirmish",
+        "specialInfo": "\u00a7bRoughworks",
+        "description": "\u00a77A massive presence of military might is required to keep watch over such a sprawling cityscape as the Industrial District.",
+        "length": "medium",
+        "lengthInfo": "",
+        "difficulty": "medium",
+        "requirements": {
+          "level": 110,
+          "professionLevels": {},
+          "quests": [
+            "Revelations in Fall"
+          ]
+        },
+        "rewards": [
+          "3500000 XP"
+        ],
+        "location": null
+      },
+      {
+        "type": "worldEvent",
+        "name": "Swampland Squabble",
+        "specialInfo": "\u00a7bFrog Bog",
+        "description": "\u00a77The rumors milling around the bog keep all but the most adventurous and desperate in the Auburn region away from its muddy waters.",
+        "length": "medium",
+        "lengthInfo": "",
+        "difficulty": "medium",
+        "requirements": {
+          "level": 105,
+          "professionLevels": {},
+          "quests": [
+            "A Journey Home"
+          ]
+        },
+        "rewards": [
+          "2800000 XP"
         ],
         "location": null
       },
@@ -7232,6 +7552,24 @@
     "activities": [
       {
         "type": "secretDiscovery",
+        "name": "A Croaking Cryptid",
+        "specialInfo": "\u00a7cAuburn Forest",
+        "description": "",
+        "length": null,
+        "lengthInfo": "",
+        "difficulty": null,
+        "requirements": {
+          "level": 104,
+          "professionLevels": {},
+          "quests": []
+        },
+        "rewards": [
+          "2560000 XP"
+        ],
+        "location": null
+      },
+      {
+        "type": "secretDiscovery",
         "name": "A Deathly Warning",
         "specialInfo": "\u00a7cNesaak Tundra",
         "description": "",
@@ -7304,6 +7642,24 @@
       },
       {
         "type": "secretDiscovery",
+        "name": "A Monument of Hope",
+        "specialInfo": "\u00a7cSilent Expanse",
+        "description": "",
+        "length": null,
+        "lengthInfo": "",
+        "difficulty": null,
+        "requirements": {
+          "level": 100,
+          "professionLevels": {},
+          "quests": []
+        },
+        "rewards": [
+          "1500000 XP"
+        ],
+        "location": null
+      },
+      {
+        "type": "secretDiscovery",
         "name": "A People's Sovereign",
         "specialInfo": "\u00a7cThe Highlands",
         "description": "",
@@ -7317,6 +7673,24 @@
         },
         "rewards": [
           "7320000 XP"
+        ],
+        "location": null
+      },
+      {
+        "type": "secretDiscovery",
+        "name": "A Wynnic Excavation",
+        "specialInfo": "\u00a7cSilent Expanse",
+        "description": "",
+        "length": null,
+        "lengthInfo": "",
+        "difficulty": null,
+        "requirements": {
+          "level": 100,
+          "professionLevels": {},
+          "quests": []
+        },
+        "rewards": [
+          "1500000 XP"
         ],
         "location": null
       },
@@ -7371,6 +7745,24 @@
         },
         "rewards": [
           "5000000 XP"
+        ],
+        "location": null
+      },
+      {
+        "type": "secretDiscovery",
+        "name": "An Unexpected Departure",
+        "specialInfo": "\u00a7cThe Roughworks",
+        "description": "",
+        "length": null,
+        "lengthInfo": "",
+        "difficulty": null,
+        "requirements": {
+          "level": 108,
+          "professionLevels": {},
+          "quests": []
+        },
+        "rewards": [
+          "3760000 XP"
         ],
         "location": null
       },
@@ -7574,6 +7966,24 @@
       },
       {
         "type": "secretDiscovery",
+        "name": "Colossal Ruins",
+        "specialInfo": "\u00a7cSky Islands",
+        "description": "",
+        "length": null,
+        "lengthInfo": "",
+        "difficulty": null,
+        "requirements": {
+          "level": 90,
+          "professionLevels": {},
+          "quests": []
+        },
+        "rewards": [
+          "1000000 XP"
+        ],
+        "location": null
+      },
+      {
+        "type": "secretDiscovery",
         "name": "Cosmic Crystals",
         "specialInfo": "\u00a7cCanyon of the Lost",
         "description": "",
@@ -7736,6 +8146,24 @@
       },
       {
         "type": "secretDiscovery",
+        "name": "Far Above the Clouds",
+        "specialInfo": "\u00a7cSky Islands",
+        "description": "",
+        "length": null,
+        "lengthInfo": "",
+        "difficulty": null,
+        "requirements": {
+          "level": 90,
+          "professionLevels": {},
+          "quests": []
+        },
+        "rewards": [
+          "1000000 XP"
+        ],
+        "location": null
+      },
+      {
+        "type": "secretDiscovery",
         "name": "Far From the Roots",
         "specialInfo": "\u00a7eWynn Plains",
         "description": "",
@@ -7749,6 +8177,24 @@
         },
         "rewards": [
           "85 XP"
+        ],
+        "location": null
+      },
+      {
+        "type": "secretDiscovery",
+        "name": "Fate of the Olm",
+        "specialInfo": "\u00a7cSilent Expanse",
+        "description": "",
+        "length": null,
+        "lengthInfo": "",
+        "difficulty": null,
+        "requirements": {
+          "level": 100,
+          "professionLevels": {},
+          "quests": []
+        },
+        "rewards": [
+          "1500000 XP"
         ],
         "location": null
       },
@@ -7916,6 +8362,24 @@
       },
       {
         "type": "secretDiscovery",
+        "name": "Hidden In Plain Sight",
+        "specialInfo": "\u00a7cThe Roughworks",
+        "description": "",
+        "length": null,
+        "lengthInfo": "",
+        "difficulty": null,
+        "requirements": {
+          "level": 108,
+          "professionLevels": {},
+          "quests": []
+        },
+        "rewards": [
+          "3760000 XP"
+        ],
+        "location": null
+      },
+      {
+        "type": "secretDiscovery",
         "name": "Historical Maltic",
         "specialInfo": "\u00a7cWynn Plains",
         "description": "",
@@ -7934,6 +8398,24 @@
       },
       {
         "type": "secretDiscovery",
+        "name": "Life Before Technology",
+        "specialInfo": "\u00a7cThe Roughworks",
+        "description": "",
+        "length": null,
+        "lengthInfo": "",
+        "difficulty": null,
+        "requirements": {
+          "level": 108,
+          "professionLevels": {},
+          "quests": []
+        },
+        "rewards": [
+          "3760000 XP"
+        ],
+        "location": null
+      },
+      {
+        "type": "secretDiscovery",
         "name": "Light Mushrooms",
         "specialInfo": "\u00a7cLight Forest",
         "description": "",
@@ -7947,6 +8429,24 @@
         },
         "rewards": [
           "200000 XP"
+        ],
+        "location": null
+      },
+      {
+        "type": "secretDiscovery",
+        "name": "Light and Shadow",
+        "specialInfo": "\u00a7cThe Mistwoods",
+        "description": "",
+        "length": null,
+        "lengthInfo": "",
+        "difficulty": null,
+        "requirements": {
+          "level": 112,
+          "professionLevels": {},
+          "quests": []
+        },
+        "rewards": [
+          "5000000 XP"
         ],
         "location": null
       },
@@ -8114,6 +8614,24 @@
       },
       {
         "type": "secretDiscovery",
+        "name": "Mining Cessation",
+        "specialInfo": "\u00a7cSilent Expanse",
+        "description": "",
+        "length": null,
+        "lengthInfo": "",
+        "difficulty": null,
+        "requirements": {
+          "level": 100,
+          "professionLevels": {},
+          "quests": []
+        },
+        "rewards": [
+          "1500000 XP"
+        ],
+        "location": null
+      },
+      {
+        "type": "secretDiscovery",
         "name": "Mining Operation",
         "specialInfo": "\u00a7cWynn Plains",
         "description": "",
@@ -8181,6 +8699,24 @@
         },
         "rewards": [
           "15000 XP"
+        ],
+        "location": null
+      },
+      {
+        "type": "secretDiscovery",
+        "name": "Otherworldly Occurrence",
+        "specialInfo": "\u00a7cSilent Expanse",
+        "description": "",
+        "length": null,
+        "lengthInfo": "",
+        "difficulty": null,
+        "requirements": {
+          "level": 100,
+          "professionLevels": {},
+          "quests": []
+        },
+        "rewards": [
+          "1500000 XP"
         ],
         "location": null
       },
@@ -8438,6 +8974,42 @@
       },
       {
         "type": "secretDiscovery",
+        "name": "Silent Expanse's Secret",
+        "specialInfo": "\u00a7cSilent Expanse",
+        "description": "",
+        "length": null,
+        "lengthInfo": "",
+        "difficulty": null,
+        "requirements": {
+          "level": 100,
+          "professionLevels": {},
+          "quests": []
+        },
+        "rewards": [
+          "3000000 XP"
+        ],
+        "location": null
+      },
+      {
+        "type": "secretDiscovery",
+        "name": "Solace in Pain",
+        "specialInfo": "\u00a7cAuburn Forest",
+        "description": "",
+        "length": null,
+        "lengthInfo": "",
+        "difficulty": null,
+        "requirements": {
+          "level": 104,
+          "professionLevels": {},
+          "quests": []
+        },
+        "rewards": [
+          "2560000 XP"
+        ],
+        "location": null
+      },
+      {
+        "type": "secretDiscovery",
         "name": "Somewhere In Between",
         "specialInfo": "\u00a7cWynn Plains",
         "description": "",
@@ -8451,6 +9023,24 @@
         },
         "rewards": [
           "700 XP"
+        ],
+        "location": null
+      },
+      {
+        "type": "secretDiscovery",
+        "name": "Space Between Realities",
+        "specialInfo": "\u00a7cSilent Expanse",
+        "description": "",
+        "length": null,
+        "lengthInfo": "",
+        "difficulty": null,
+        "requirements": {
+          "level": 100,
+          "professionLevels": {},
+          "quests": []
+        },
+        "rewards": [
+          "1500000 XP"
         ],
         "location": null
       },
@@ -8690,6 +9280,60 @@
       },
       {
         "type": "secretDiscovery",
+        "name": "The Fallen Protector",
+        "specialInfo": "\u00a7cSky Islands",
+        "description": "",
+        "length": null,
+        "lengthInfo": "",
+        "difficulty": null,
+        "requirements": {
+          "level": 95,
+          "professionLevels": {},
+          "quests": []
+        },
+        "rewards": [
+          "1000000 XP"
+        ],
+        "location": null
+      },
+      {
+        "type": "secretDiscovery",
+        "name": "The Final Moments",
+        "specialInfo": "\u00a7cSilent Expanse",
+        "description": "",
+        "length": null,
+        "lengthInfo": "",
+        "difficulty": null,
+        "requirements": {
+          "level": 100,
+          "professionLevels": {},
+          "quests": []
+        },
+        "rewards": [
+          "1500000 XP"
+        ],
+        "location": null
+      },
+      {
+        "type": "secretDiscovery",
+        "name": "The Forest has Eyes",
+        "specialInfo": "\u00a7cSilent Expanse",
+        "description": "",
+        "length": null,
+        "lengthInfo": "",
+        "difficulty": null,
+        "requirements": {
+          "level": 100,
+          "professionLevels": {},
+          "quests": []
+        },
+        "rewards": [
+          "1500000 XP"
+        ],
+        "location": null
+      },
+      {
+        "type": "secretDiscovery",
         "name": "The Grand Archive",
         "specialInfo": "\u00a7cGylia Plains",
         "description": "",
@@ -8726,6 +9370,24 @@
       },
       {
         "type": "secretDiscovery",
+        "name": "The Great Sap Siphon",
+        "specialInfo": "\u00a7cThe Roughworks",
+        "description": "",
+        "length": null,
+        "lengthInfo": "",
+        "difficulty": null,
+        "requirements": {
+          "level": 108,
+          "professionLevels": {},
+          "quests": []
+        },
+        "rewards": [
+          "3760000 XP"
+        ],
+        "location": null
+      },
+      {
+        "type": "secretDiscovery",
         "name": "The Heart of the Decay",
         "specialInfo": "\u00a7cDark Forest",
         "description": "",
@@ -8757,6 +9419,42 @@
         },
         "rewards": [
           "15000 XP"
+        ],
+        "location": null
+      },
+      {
+        "type": "secretDiscovery",
+        "name": "The Lonely Abyss",
+        "specialInfo": "\u00a7cSky Islands",
+        "description": "",
+        "length": null,
+        "lengthInfo": "",
+        "difficulty": null,
+        "requirements": {
+          "level": 95,
+          "professionLevels": {},
+          "quests": []
+        },
+        "rewards": [
+          "1000000 XP"
+        ],
+        "location": null
+      },
+      {
+        "type": "secretDiscovery",
+        "name": "The Royal University's Library",
+        "specialInfo": "\u00a7cThe Highlands",
+        "description": "",
+        "length": null,
+        "lengthInfo": "",
+        "difficulty": null,
+        "requirements": {
+          "level": 118,
+          "professionLevels": {},
+          "quests": []
+        },
+        "rewards": [
+          "9740000 XP"
         ],
         "location": null
       },
@@ -8870,6 +9568,24 @@
       },
       {
         "type": "secretDiscovery",
+        "name": "Toxic Bounce",
+        "specialInfo": "\u00a7cSilent Expanse",
+        "description": "",
+        "length": null,
+        "lengthInfo": "",
+        "difficulty": null,
+        "requirements": {
+          "level": 100,
+          "professionLevels": {},
+          "quests": []
+        },
+        "rewards": [
+          "1500000 XP"
+        ],
+        "location": null
+      },
+      {
+        "type": "secretDiscovery",
         "name": "Unstable Experiments",
         "specialInfo": "\u00a7cLlevigar Plains",
         "description": "",
@@ -8883,6 +9599,24 @@
         },
         "rewards": [
           "14000 XP"
+        ],
+        "location": null
+      },
+      {
+        "type": "secretDiscovery",
+        "name": "Washed Away",
+        "specialInfo": "\u00a7cAuburn Forest",
+        "description": "",
+        "length": null,
+        "lengthInfo": "",
+        "difficulty": null,
+        "requirements": {
+          "level": 104,
+          "professionLevels": {},
+          "quests": []
+        },
+        "rewards": [
+          "2560000 XP"
         ],
         "location": null
       },
@@ -9716,6 +10450,24 @@
         },
         "rewards": [
           "13000 XP"
+        ],
+        "location": null
+      },
+      {
+        "type": "worldDiscovery",
+        "name": "Deserter's Refuge",
+        "specialInfo": "",
+        "description": "\u00a77The lavish halls of these barracks are one of the few places in the Citadel that the lighthouse's piercing gaze cannot reach inside of. As only soldiers are permitted to enter, none have heard the maniacal whisperings that now fill them.",
+        "length": null,
+        "lengthInfo": "",
+        "difficulty": null,
+        "requirements": {
+          "level": 119,
+          "professionLevels": {},
+          "quests": []
+        },
+        "rewards": [
+          "4000000 XP"
         ],
         "location": null
       },
@@ -11053,6 +11805,24 @@
       },
       {
         "type": "worldDiscovery",
+        "name": "Ragni",
+        "specialInfo": "",
+        "description": "\u00a77One of two great fortresses in Wynn. Ragni has survived over 1000 years of war - sometimes barely. It is the hometown of the 146 year old hero Bob, who hasn't been seen in 16 years.",
+        "length": null,
+        "lengthInfo": "",
+        "difficulty": null,
+        "requirements": {
+          "level": 1,
+          "professionLevels": {},
+          "quests": []
+        },
+        "rewards": [
+          "10 XP"
+        ],
+        "location": null
+      },
+      {
+        "type": "worldDiscovery",
         "name": "Raiders' Port",
         "specialInfo": "",
         "description": "\u00a77Home of the Sky Raiders, a group of pirates who plunder and thieve through the air.",
@@ -11323,6 +12093,24 @@
       },
       {
         "type": "worldDiscovery",
+        "name": "Soosu's Mansion",
+        "specialInfo": "",
+        "description": "\u00a77The seldom-seen Sovereign of the Roughworks, Soosu, is known to almost always be huddled up in this haphazard tower. What she does in there is anyone's guess.",
+        "length": null,
+        "lengthInfo": "",
+        "difficulty": null,
+        "requirements": {
+          "level": 108,
+          "professionLevels": {},
+          "quests": []
+        },
+        "rewards": [
+          "750000 XP"
+        ],
+        "location": null
+      },
+      {
+        "type": "worldDiscovery",
         "name": "Sunrise Canyon",
         "specialInfo": "",
         "description": "\u00a77A secluded gorge, rumored to be the territory of a notorious lone bandit. The stones turn a fiery spectrum of colors in the sunrise and set.",
@@ -11408,6 +12196,24 @@
         },
         "rewards": [
           "43000 XP"
+        ],
+        "location": null
+      },
+      {
+        "type": "worldDiscovery",
+        "name": "The Canopy's Hideout",
+        "specialInfo": "",
+        "description": "\u00a77With little government assistance, the people of the Mistwoods depend on various clans to keep them safe from the forest's mysterious threats. One such clan is The Canopy.",
+        "length": null,
+        "lengthInfo": "",
+        "difficulty": null,
+        "requirements": {
+          "level": 111,
+          "professionLevels": {},
+          "quests": []
+        },
+        "rewards": [
+          "1000000 XP"
         ],
         "location": null
       },
@@ -11575,6 +12381,42 @@
       },
       {
         "type": "worldDiscovery",
+        "name": "The Industrial District",
+        "specialInfo": "",
+        "description": "\u00a77Known to its inhabitants as the Roughworks, this region of the Province is devoted to the manufacture of products for richer areas. Its citizens toil endlessly, rewarded with a mere pittance - hardly enough to survive.",
+        "length": null,
+        "lengthInfo": "",
+        "difficulty": null,
+        "requirements": {
+          "level": 108,
+          "professionLevels": {},
+          "quests": []
+        },
+        "rewards": [
+          "750000 XP"
+        ],
+        "location": null
+      },
+      {
+        "type": "worldDiscovery",
+        "name": "The Mistwoods",
+        "specialInfo": "",
+        "description": "\u00a77A dense fog permanently covers this vast redwood forest, meaning no outsider can see any more than just the towering treetops. As such, few know what goes on within the woods, which citizens are barred from entering.",
+        "length": null,
+        "lengthInfo": "",
+        "difficulty": null,
+        "requirements": {
+          "level": 111,
+          "professionLevels": {},
+          "quests": []
+        },
+        "rewards": [
+          "1000000 XP"
+        ],
+        "location": null
+      },
+      {
+        "type": "worldDiscovery",
         "name": "The Moon",
         "specialInfo": "",
         "description": "\u00a77It seems the wizard's gravity spell made you fall all the way through space, landing on the moon itself. Weird.",
@@ -11606,6 +12448,24 @@
         },
         "rewards": [
           "145000 XP"
+        ],
+        "location": null
+      },
+      {
+        "type": "worldDiscovery",
+        "name": "The Palace",
+        "specialInfo": "",
+        "description": "\u00a77Home to the Queen, this vast palace is the very heart of Fruma. It is filled with luxuries for Her Majesty to enjoy, for just like the province itself, it exists only to please her.",
+        "length": null,
+        "lengthInfo": "",
+        "difficulty": null,
+        "requirements": {
+          "level": 118,
+          "professionLevels": {},
+          "quests": []
+        },
+        "rewards": [
+          "1950000 XP"
         ],
         "location": null
       },
@@ -11647,6 +12507,24 @@
       },
       {
         "type": "worldDiscovery",
+        "name": "The Royal University of Aelumia",
+        "specialInfo": "",
+        "description": "\u00a77Colloquially known as Aelumia University, it is the most prestigious educational institution in Fruma. Many of the province's greatest minds have studied here, some later going on to become Sovereigns.",
+        "length": null,
+        "lengthInfo": "",
+        "difficulty": null,
+        "requirements": {
+          "level": 118,
+          "professionLevels": {},
+          "quests": []
+        },
+        "rewards": [
+          "1950000 XP"
+        ],
+        "location": null
+      },
+      {
+        "type": "worldDiscovery",
         "name": "The Shiar",
         "specialInfo": "",
         "description": "\u00a77A village of hobbits, it is home to a blacksmith by the name of Dodegar, seeking to forge the ultimate weapon.",
@@ -11660,6 +12538,24 @@
         },
         "rewards": [
           "20000 XP"
+        ],
+        "location": null
+      },
+      {
+        "type": "worldDiscovery",
+        "name": "The Steel Feather",
+        "specialInfo": "",
+        "description": "\u00a77In this abandoned subway station, a group of citizens wronged by the government have gathered, building their own community beneath the eyes of the Crown.",
+        "length": null,
+        "lengthInfo": "",
+        "difficulty": null,
+        "requirements": {
+          "level": 108,
+          "professionLevels": {},
+          "quests": []
+        },
+        "rewards": [
+          "750000 XP"
         ],
         "location": null
       },
@@ -11714,6 +12610,24 @@
         },
         "rewards": [
           "60000 XP"
+        ],
+        "location": null
+      },
+      {
+        "type": "worldDiscovery",
+        "name": "Timasca",
+        "specialInfo": "",
+        "description": "\u00a77Although it is the most urban area of the Roughworks, the bar is not very high. The city is constantly growing and redeveloping, unmindful of what came before, resulting in its ramshackle state.",
+        "length": null,
+        "lengthInfo": "",
+        "difficulty": null,
+        "requirements": {
+          "level": 108,
+          "professionLevels": {},
+          "quests": []
+        },
+        "rewards": [
+          "750000 XP"
         ],
         "location": null
       },
@@ -12120,6 +13034,60 @@
       },
       {
         "type": "territorialDiscovery",
+        "name": "Aerial Descent",
+        "specialInfo": "",
+        "description": "",
+        "length": null,
+        "lengthInfo": "",
+        "difficulty": null,
+        "requirements": {
+          "level": 90,
+          "professionLevels": {},
+          "quests": []
+        },
+        "rewards": [
+          "6810 XP"
+        ],
+        "location": null
+      },
+      {
+        "type": "territorialDiscovery",
+        "name": "Agricultural Sector",
+        "specialInfo": "",
+        "description": "",
+        "length": null,
+        "lengthInfo": "",
+        "difficulty": null,
+        "requirements": {
+          "level": 104,
+          "professionLevels": {},
+          "quests": []
+        },
+        "rewards": [
+          "13000 XP"
+        ],
+        "location": null
+      },
+      {
+        "type": "territorialDiscovery",
+        "name": "Ahmsord Outskirts",
+        "specialInfo": "",
+        "description": "",
+        "length": null,
+        "lengthInfo": "",
+        "difficulty": null,
+        "requirements": {
+          "level": 90,
+          "professionLevels": {},
+          "quests": []
+        },
+        "rewards": [
+          "6810 XP"
+        ],
+        "location": null
+      },
+      {
+        "type": "territorialDiscovery",
         "name": "Akias Ruins",
         "specialInfo": "",
         "description": "",
@@ -12336,6 +13304,24 @@
       },
       {
         "type": "territorialDiscovery",
+        "name": "Angel Refuge",
+        "specialInfo": "",
+        "description": "",
+        "length": null,
+        "lengthInfo": "",
+        "difficulty": null,
+        "requirements": {
+          "level": 90,
+          "professionLevels": {},
+          "quests": []
+        },
+        "rewards": [
+          "6810 XP"
+        ],
+        "location": null
+      },
+      {
+        "type": "territorialDiscovery",
         "name": "Apprentice Huts",
         "specialInfo": "",
         "description": "",
@@ -12372,7 +13358,43 @@
       },
       {
         "type": "territorialDiscovery",
+        "name": "Astraulus' Tower",
+        "specialInfo": "",
+        "description": "",
+        "length": null,
+        "lengthInfo": "",
+        "difficulty": null,
+        "requirements": {
+          "level": 90,
+          "professionLevels": {},
+          "quests": []
+        },
+        "rewards": [
+          "6810 XP"
+        ],
+        "location": null
+      },
+      {
+        "type": "territorialDiscovery",
         "name": "Ava's Workshop",
+        "specialInfo": "",
+        "description": "",
+        "length": null,
+        "lengthInfo": "",
+        "difficulty": null,
+        "requirements": {
+          "level": 80,
+          "professionLevels": {},
+          "quests": []
+        },
+        "rewards": [
+          "4160 XP"
+        ],
+        "location": null
+      },
+      {
+        "type": "territorialDiscovery",
+        "name": "Avos Temple",
         "specialInfo": "",
         "description": "",
         "length": null,
@@ -12552,6 +13574,24 @@
       },
       {
         "type": "territorialDiscovery",
+        "name": "Bizarre Passage",
+        "specialInfo": "",
+        "description": "",
+        "length": null,
+        "lengthInfo": "",
+        "difficulty": null,
+        "requirements": {
+          "level": 100,
+          "professionLevels": {},
+          "quests": []
+        },
+        "rewards": [
+          "6810 XP"
+        ],
+        "location": null
+      },
+      {
+        "type": "territorialDiscovery",
         "name": "Black Road",
         "specialInfo": "",
         "description": "",
@@ -12583,6 +13623,24 @@
         },
         "rewards": [
           "115 XP"
+        ],
+        "location": null
+      },
+      {
+        "type": "territorialDiscovery",
+        "name": "Bloody Beach",
+        "specialInfo": "",
+        "description": "",
+        "length": null,
+        "lengthInfo": "",
+        "difficulty": null,
+        "requirements": {
+          "level": 80,
+          "professionLevels": {},
+          "quests": []
+        },
+        "rewards": [
+          "4160 XP"
         ],
         "location": null
       },
@@ -12637,6 +13695,24 @@
         },
         "rewards": [
           "410 XP"
+        ],
+        "location": null
+      },
+      {
+        "type": "territorialDiscovery",
+        "name": "Broken Road",
+        "specialInfo": "",
+        "description": "",
+        "length": null,
+        "lengthInfo": "",
+        "difficulty": null,
+        "requirements": {
+          "level": 100,
+          "professionLevels": {},
+          "quests": []
+        },
+        "rewards": [
+          "6810 XP"
         ],
         "location": null
       },
@@ -12853,6 +13929,24 @@
         },
         "rewards": [
           "1530 XP"
+        ],
+        "location": null
+      },
+      {
+        "type": "territorialDiscovery",
+        "name": "Central Islands",
+        "specialInfo": "",
+        "description": "",
+        "length": null,
+        "lengthInfo": "",
+        "difficulty": null,
+        "requirements": {
+          "level": 90,
+          "professionLevels": {},
+          "quests": []
+        },
+        "rewards": [
+          "6810 XP"
         ],
         "location": null
       },
@@ -13164,6 +14258,42 @@
       },
       {
         "type": "territorialDiscovery",
+        "name": "Corkus Outskirts",
+        "specialInfo": "",
+        "description": "",
+        "length": null,
+        "lengthInfo": "",
+        "difficulty": null,
+        "requirements": {
+          "level": 80,
+          "professionLevels": {},
+          "quests": []
+        },
+        "rewards": [
+          "4160 XP"
+        ],
+        "location": null
+      },
+      {
+        "type": "territorialDiscovery",
+        "name": "Corkus Sea Cove",
+        "specialInfo": "",
+        "description": "",
+        "length": null,
+        "lengthInfo": "",
+        "difficulty": null,
+        "requirements": {
+          "level": 80,
+          "professionLevels": {},
+          "quests": []
+        },
+        "rewards": [
+          "4160 XP"
+        ],
+        "location": null
+      },
+      {
+        "type": "territorialDiscovery",
         "name": "Corrupted River",
         "specialInfo": "",
         "description": "",
@@ -13254,6 +14384,24 @@
       },
       {
         "type": "territorialDiscovery",
+        "name": "Crater Descent",
+        "specialInfo": "",
+        "description": "",
+        "length": null,
+        "lengthInfo": "",
+        "difficulty": null,
+        "requirements": {
+          "level": 85,
+          "professionLevels": {},
+          "quests": []
+        },
+        "rewards": [
+          "5320 XP"
+        ],
+        "location": null
+      },
+      {
+        "type": "territorialDiscovery",
         "name": "Cyclospordial Hazard",
         "specialInfo": "",
         "description": "",
@@ -13303,6 +14451,24 @@
         },
         "rewards": [
           "1970 XP"
+        ],
+        "location": null
+      },
+      {
+        "type": "territorialDiscovery",
+        "name": "Deforested Ecotone",
+        "specialInfo": "",
+        "description": "",
+        "length": null,
+        "lengthInfo": "",
+        "difficulty": null,
+        "requirements": {
+          "level": 109,
+          "professionLevels": {},
+          "quests": []
+        },
+        "rewards": [
+          "21000 XP"
         ],
         "location": null
       },
@@ -13429,6 +14595,60 @@
         },
         "rewards": [
           "1970 XP"
+        ],
+        "location": null
+      },
+      {
+        "type": "territorialDiscovery",
+        "name": "Dogun Ritual Site",
+        "specialInfo": "",
+        "description": "",
+        "length": null,
+        "lengthInfo": "",
+        "difficulty": null,
+        "requirements": {
+          "level": 85,
+          "professionLevels": {},
+          "quests": []
+        },
+        "rewards": [
+          "5320 XP"
+        ],
+        "location": null
+      },
+      {
+        "type": "territorialDiscovery",
+        "name": "Dragonbone Graveyard",
+        "specialInfo": "",
+        "description": "",
+        "length": null,
+        "lengthInfo": "",
+        "difficulty": null,
+        "requirements": {
+          "level": 85,
+          "professionLevels": {},
+          "quests": []
+        },
+        "rewards": [
+          "5320 XP"
+        ],
+        "location": null
+      },
+      {
+        "type": "territorialDiscovery",
+        "name": "Dragonling Nests",
+        "specialInfo": "",
+        "description": "",
+        "length": null,
+        "lengthInfo": "",
+        "difficulty": null,
+        "requirements": {
+          "level": 90,
+          "professionLevels": {},
+          "quests": []
+        },
+        "rewards": [
+          "6810 XP"
         ],
         "location": null
       },
@@ -13830,6 +15050,24 @@
       },
       {
         "type": "territorialDiscovery",
+        "name": "Espren",
+        "specialInfo": "",
+        "description": "",
+        "length": null,
+        "lengthInfo": "",
+        "difficulty": null,
+        "requirements": {
+          "level": 100,
+          "professionLevels": {},
+          "quests": []
+        },
+        "rewards": [
+          "7000 XP"
+        ],
+        "location": null
+      },
+      {
+        "type": "territorialDiscovery",
         "name": "Evergreen Outbreak",
         "specialInfo": "",
         "description": "",
@@ -13956,6 +15194,24 @@
       },
       {
         "type": "territorialDiscovery",
+        "name": "Festival Grounds",
+        "specialInfo": "",
+        "description": "",
+        "length": null,
+        "lengthInfo": "",
+        "difficulty": null,
+        "requirements": {
+          "level": 100,
+          "professionLevels": {},
+          "quests": []
+        },
+        "rewards": [
+          "7000 XP"
+        ],
+        "location": null
+      },
+      {
+        "type": "territorialDiscovery",
         "name": "Feuding Houses",
         "specialInfo": "",
         "description": "",
@@ -13987,6 +15243,24 @@
         },
         "rewards": [
           "2530 XP"
+        ],
+        "location": null
+      },
+      {
+        "type": "territorialDiscovery",
+        "name": "Final Step",
+        "specialInfo": "",
+        "description": "",
+        "length": null,
+        "lengthInfo": "",
+        "difficulty": null,
+        "requirements": {
+          "level": 100,
+          "professionLevels": {},
+          "quests": []
+        },
+        "rewards": [
+          "6810 XP"
         ],
         "location": null
       },
@@ -14208,6 +15482,24 @@
       },
       {
         "type": "territorialDiscovery",
+        "name": "Freezing Heights",
+        "specialInfo": "",
+        "description": "",
+        "length": null,
+        "lengthInfo": "",
+        "difficulty": null,
+        "requirements": {
+          "level": 85,
+          "professionLevels": {},
+          "quests": []
+        },
+        "rewards": [
+          "5320 XP"
+        ],
+        "location": null
+      },
+      {
+        "type": "territorialDiscovery",
         "name": "Frigid Crossroads",
         "specialInfo": "",
         "description": "",
@@ -14257,6 +15549,24 @@
         },
         "rewards": [
           "400 XP"
+        ],
+        "location": null
+      },
+      {
+        "type": "territorialDiscovery",
+        "name": "Frozen Fort",
+        "specialInfo": "",
+        "description": "",
+        "length": null,
+        "lengthInfo": "",
+        "difficulty": null,
+        "requirements": {
+          "level": 90,
+          "professionLevels": {},
+          "quests": []
+        },
+        "rewards": [
+          "6810 XP"
         ],
         "location": null
       },
@@ -14820,6 +16130,24 @@
       },
       {
         "type": "territorialDiscovery",
+        "name": "Industrial Sector",
+        "specialInfo": "",
+        "description": "",
+        "length": null,
+        "lengthInfo": "",
+        "difficulty": null,
+        "requirements": {
+          "level": 104,
+          "professionLevels": {},
+          "quests": []
+        },
+        "rewards": [
+          "13000 XP"
+        ],
+        "location": null
+      },
+      {
+        "type": "territorialDiscovery",
         "name": "Infested Sinkhole",
         "specialInfo": "",
         "description": "",
@@ -14964,6 +16292,42 @@
       },
       {
         "type": "territorialDiscovery",
+        "name": "Kandon Farm",
+        "specialInfo": "",
+        "description": "",
+        "length": null,
+        "lengthInfo": "",
+        "difficulty": null,
+        "requirements": {
+          "level": 90,
+          "professionLevels": {},
+          "quests": []
+        },
+        "rewards": [
+          "6810 XP"
+        ],
+        "location": null
+      },
+      {
+        "type": "territorialDiscovery",
+        "name": "Kandon Ridge",
+        "specialInfo": "",
+        "description": "",
+        "length": null,
+        "lengthInfo": "",
+        "difficulty": null,
+        "requirements": {
+          "level": 90,
+          "professionLevels": {},
+          "quests": []
+        },
+        "rewards": [
+          "6810 XP"
+        ],
+        "location": null
+      },
+      {
+        "type": "territorialDiscovery",
         "name": "Karoc Quarry",
         "specialInfo": "",
         "description": "",
@@ -15085,6 +16449,24 @@
         },
         "rewards": [
           "27000 XP"
+        ],
+        "location": null
+      },
+      {
+        "type": "territorialDiscovery",
+        "name": "Lava Lakes",
+        "specialInfo": "",
+        "description": "",
+        "length": null,
+        "lengthInfo": "",
+        "difficulty": null,
+        "requirements": {
+          "level": 85,
+          "professionLevels": {},
+          "quests": []
+        },
+        "rewards": [
+          "5320 XP"
         ],
         "location": null
       },
@@ -15576,6 +16958,24 @@
       },
       {
         "type": "territorialDiscovery",
+        "name": "Molten Reach",
+        "specialInfo": "",
+        "description": "",
+        "length": null,
+        "lengthInfo": "",
+        "difficulty": null,
+        "requirements": {
+          "level": 90,
+          "professionLevels": {},
+          "quests": []
+        },
+        "rewards": [
+          "6810 XP"
+        ],
+        "location": null
+      },
+      {
+        "type": "territorialDiscovery",
         "name": "Monte's Village",
         "specialInfo": "",
         "description": "",
@@ -15846,6 +17246,24 @@
       },
       {
         "type": "territorialDiscovery",
+        "name": "Old Coal Mine",
+        "specialInfo": "",
+        "description": "",
+        "length": null,
+        "lengthInfo": "",
+        "difficulty": null,
+        "requirements": {
+          "level": 90,
+          "professionLevels": {},
+          "quests": []
+        },
+        "rewards": [
+          "6810 XP"
+        ],
+        "location": null
+      },
+      {
+        "type": "territorialDiscovery",
         "name": "Old Crossroads",
         "specialInfo": "",
         "description": "",
@@ -16093,6 +17511,24 @@
         },
         "rewards": [
           "3245 XP"
+        ],
+        "location": null
+      },
+      {
+        "type": "territorialDiscovery",
+        "name": "Path to Ahmsord",
+        "specialInfo": "",
+        "description": "",
+        "length": null,
+        "lengthInfo": "",
+        "difficulty": null,
+        "requirements": {
+          "level": 90,
+          "professionLevels": {},
+          "quests": []
+        },
+        "rewards": [
+          "6810 XP"
         ],
         "location": null
       },
@@ -16404,6 +17840,24 @@
       },
       {
         "type": "territorialDiscovery",
+        "name": "Pyroclastic Flow",
+        "specialInfo": "",
+        "description": "",
+        "length": null,
+        "lengthInfo": "",
+        "difficulty": null,
+        "requirements": {
+          "level": 85,
+          "professionLevels": {},
+          "quests": []
+        },
+        "rewards": [
+          "5320 XP"
+        ],
+        "location": null
+      },
+      {
+        "type": "territorialDiscovery",
         "name": "Ragni Countryside North",
         "specialInfo": "",
         "description": "",
@@ -16476,6 +17930,42 @@
       },
       {
         "type": "territorialDiscovery",
+        "name": "Raiders' Airbase",
+        "specialInfo": "",
+        "description": "",
+        "length": null,
+        "lengthInfo": "",
+        "difficulty": null,
+        "requirements": {
+          "level": 90,
+          "professionLevels": {},
+          "quests": []
+        },
+        "rewards": [
+          "6810 XP"
+        ],
+        "location": null
+      },
+      {
+        "type": "territorialDiscovery",
+        "name": "Raiders' Stronghold",
+        "specialInfo": "",
+        "description": "",
+        "length": null,
+        "lengthInfo": "",
+        "difficulty": null,
+        "requirements": {
+          "level": 90,
+          "professionLevels": {},
+          "quests": []
+        },
+        "rewards": [
+          "6810 XP"
+        ],
+        "location": null
+      },
+      {
+        "type": "territorialDiscovery",
         "name": "Ranol's Farm",
         "specialInfo": "",
         "description": "",
@@ -16543,6 +18033,24 @@
         },
         "rewards": [
           "4160 XP"
+        ],
+        "location": null
+      },
+      {
+        "type": "territorialDiscovery",
+        "name": "Residence Sector",
+        "specialInfo": "",
+        "description": "",
+        "length": null,
+        "lengthInfo": "",
+        "difficulty": null,
+        "requirements": {
+          "level": 104,
+          "professionLevels": {},
+          "quests": []
+        },
+        "rewards": [
+          "13000 XP"
         ],
         "location": null
       },
@@ -16998,6 +18506,24 @@
       },
       {
         "type": "territorialDiscovery",
+        "name": "Silent Road",
+        "specialInfo": "",
+        "description": "",
+        "length": null,
+        "lengthInfo": "",
+        "difficulty": null,
+        "requirements": {
+          "level": 100,
+          "professionLevels": {},
+          "quests": []
+        },
+        "rewards": [
+          "6810 XP"
+        ],
+        "location": null
+      },
+      {
+        "type": "territorialDiscovery",
         "name": "Silverbull Headquarters",
         "specialInfo": "",
         "description": "",
@@ -17011,6 +18537,96 @@
         },
         "rewards": [
           "2530 XP"
+        ],
+        "location": null
+      },
+      {
+        "type": "territorialDiscovery",
+        "name": "Sinister Forest",
+        "specialInfo": "",
+        "description": "",
+        "length": null,
+        "lengthInfo": "",
+        "difficulty": null,
+        "requirements": {
+          "level": 100,
+          "professionLevels": {},
+          "quests": []
+        },
+        "rewards": [
+          "6810 XP"
+        ],
+        "location": null
+      },
+      {
+        "type": "territorialDiscovery",
+        "name": "Sky Castle",
+        "specialInfo": "",
+        "description": "",
+        "length": null,
+        "lengthInfo": "",
+        "difficulty": null,
+        "requirements": {
+          "level": 90,
+          "professionLevels": {},
+          "quests": []
+        },
+        "rewards": [
+          "6810 XP"
+        ],
+        "location": null
+      },
+      {
+        "type": "territorialDiscovery",
+        "name": "Sky Falls",
+        "specialInfo": "",
+        "description": "",
+        "length": null,
+        "lengthInfo": "",
+        "difficulty": null,
+        "requirements": {
+          "level": 90,
+          "professionLevels": {},
+          "quests": []
+        },
+        "rewards": [
+          "6810 XP"
+        ],
+        "location": null
+      },
+      {
+        "type": "territorialDiscovery",
+        "name": "Sky Island Ascent",
+        "specialInfo": "",
+        "description": "",
+        "length": null,
+        "lengthInfo": "",
+        "difficulty": null,
+        "requirements": {
+          "level": 90,
+          "professionLevels": {},
+          "quests": []
+        },
+        "rewards": [
+          "6810 XP"
+        ],
+        "location": null
+      },
+      {
+        "type": "territorialDiscovery",
+        "name": "Snail Island",
+        "specialInfo": "",
+        "description": "",
+        "length": null,
+        "lengthInfo": "",
+        "difficulty": null,
+        "requirements": {
+          "level": 90,
+          "professionLevels": {},
+          "quests": []
+        },
+        "rewards": [
+          "6810 XP"
         ],
         "location": null
       },
@@ -17124,6 +18740,24 @@
       },
       {
         "type": "territorialDiscovery",
+        "name": "Swamp Island",
+        "specialInfo": "",
+        "description": "",
+        "length": null,
+        "lengthInfo": "",
+        "difficulty": null,
+        "requirements": {
+          "level": 90,
+          "professionLevels": {},
+          "quests": []
+        },
+        "rewards": [
+          "6810 XP"
+        ],
+        "location": null
+      },
+      {
+        "type": "territorialDiscovery",
         "name": "Swamp Mountain Arch",
         "specialInfo": "",
         "description": "",
@@ -17155,6 +18789,24 @@
         },
         "rewards": [
           "1970 XP"
+        ],
+        "location": null
+      },
+      {
+        "type": "territorialDiscovery",
+        "name": "Temple Island",
+        "specialInfo": "",
+        "description": "",
+        "length": null,
+        "lengthInfo": "",
+        "difficulty": null,
+        "requirements": {
+          "level": 90,
+          "professionLevels": {},
+          "quests": []
+        },
+        "rewards": [
+          "6810 XP"
         ],
         "location": null
       },
@@ -17250,6 +18902,42 @@
       },
       {
         "type": "territorialDiscovery",
+        "name": "The Frog Bog",
+        "specialInfo": "",
+        "description": "",
+        "length": null,
+        "lengthInfo": "",
+        "difficulty": null,
+        "requirements": {
+          "level": 100,
+          "professionLevels": {},
+          "quests": []
+        },
+        "rewards": [
+          "7000 XP"
+        ],
+        "location": null
+      },
+      {
+        "type": "territorialDiscovery",
+        "name": "The Lumbermill",
+        "specialInfo": "",
+        "description": "",
+        "length": null,
+        "lengthInfo": "",
+        "difficulty": null,
+        "requirements": {
+          "level": 100,
+          "professionLevels": {},
+          "quests": []
+        },
+        "rewards": [
+          "7000 XP"
+        ],
+        "location": null
+      },
+      {
+        "type": "territorialDiscovery",
         "name": "The Shiar",
         "specialInfo": "",
         "description": "",
@@ -17322,6 +19010,24 @@
       },
       {
         "type": "territorialDiscovery",
+        "name": "Timasca",
+        "specialInfo": "",
+        "description": "",
+        "length": null,
+        "lengthInfo": "",
+        "difficulty": null,
+        "requirements": {
+          "level": 104,
+          "professionLevels": {},
+          "quests": []
+        },
+        "rewards": [
+          "13000 XP"
+        ],
+        "location": null
+      },
+      {
+        "type": "territorialDiscovery",
         "name": "Timeworn Arch",
         "specialInfo": "",
         "description": "",
@@ -17335,6 +19041,42 @@
         },
         "rewards": [
           "2530 XP"
+        ],
+        "location": null
+      },
+      {
+        "type": "territorialDiscovery",
+        "name": "Toxic Caves",
+        "specialInfo": "",
+        "description": "",
+        "length": null,
+        "lengthInfo": "",
+        "difficulty": null,
+        "requirements": {
+          "level": 100,
+          "professionLevels": {},
+          "quests": []
+        },
+        "rewards": [
+          "6810 XP"
+        ],
+        "location": null
+      },
+      {
+        "type": "territorialDiscovery",
+        "name": "Toxic Drip",
+        "specialInfo": "",
+        "description": "",
+        "length": null,
+        "lengthInfo": "",
+        "difficulty": null,
+        "requirements": {
+          "level": 100,
+          "professionLevels": {},
+          "quests": []
+        },
+        "rewards": [
+          "6810 XP"
         ],
         "location": null
       },
@@ -17520,6 +19262,24 @@
       },
       {
         "type": "territorialDiscovery",
+        "name": "University Campus",
+        "specialInfo": "",
+        "description": "",
+        "length": null,
+        "lengthInfo": "",
+        "difficulty": null,
+        "requirements": {
+          "level": 114,
+          "professionLevels": {},
+          "quests": []
+        },
+        "rewards": [
+          "33000 XP"
+        ],
+        "location": null
+      },
+      {
+        "type": "territorialDiscovery",
         "name": "Upper Thanos",
         "specialInfo": "",
         "description": "",
@@ -17574,6 +19334,24 @@
       },
       {
         "type": "territorialDiscovery",
+        "name": "Void Valley",
+        "specialInfo": "",
+        "description": "",
+        "length": null,
+        "lengthInfo": "",
+        "difficulty": null,
+        "requirements": {
+          "level": 100,
+          "professionLevels": {},
+          "quests": []
+        },
+        "rewards": [
+          "6810 XP"
+        ],
+        "location": null
+      },
+      {
+        "type": "territorialDiscovery",
         "name": "Volcanic Excavation",
         "specialInfo": "",
         "description": "",
@@ -17623,6 +19401,24 @@
         },
         "rewards": [
           "4160 XP"
+        ],
+        "location": null
+      },
+      {
+        "type": "territorialDiscovery",
+        "name": "Water Processing Sector",
+        "specialInfo": "",
+        "description": "",
+        "length": null,
+        "lengthInfo": "",
+        "difficulty": null,
+        "requirements": {
+          "level": 104,
+          "professionLevels": {},
+          "quests": []
+        },
+        "rewards": [
+          "13000 XP"
         ],
         "location": null
       },
@@ -17695,6 +19491,24 @@
         },
         "rewards": [
           "1970 XP"
+        ],
+        "location": null
+      },
+      {
+        "type": "territorialDiscovery",
+        "name": "Wellspring of Eternity",
+        "specialInfo": "",
+        "description": "",
+        "length": null,
+        "lengthInfo": "",
+        "difficulty": null,
+        "requirements": {
+          "level": 100,
+          "professionLevels": {},
+          "quests": []
+        },
+        "rewards": [
+          "7000 XP"
         ],
         "location": null
       },
@@ -17821,6 +19635,42 @@
         },
         "rewards": [
           "4160 XP"
+        ],
+        "location": null
+      },
+      {
+        "type": "territorialDiscovery",
+        "name": "Worm Tunnel",
+        "specialInfo": "",
+        "description": "",
+        "length": null,
+        "lengthInfo": "",
+        "difficulty": null,
+        "requirements": {
+          "level": 100,
+          "professionLevels": {},
+          "quests": []
+        },
+        "rewards": [
+          "6810 XP"
+        ],
+        "location": null
+      },
+      {
+        "type": "territorialDiscovery",
+        "name": "Wybel Island",
+        "specialInfo": "",
+        "description": "",
+        "length": null,
+        "lengthInfo": "",
+        "difficulty": null,
+        "requirements": {
+          "level": 90,
+          "professionLevels": {},
+          "quests": []
+        },
+        "rewards": [
+          "6810 XP"
         ],
         "location": null
       },
@@ -17977,7 +19827,7 @@
         },
         "rewards": [
           "60 XP",
-          "1 \u00a7f\ue008\udb00\u00a7dDamasse",
+          "1 \u00a7f\ue008\udb00\udc02\u00a7dDamasse",
           "Various Items"
         ],
         "location": {
@@ -18001,7 +19851,7 @@
         },
         "rewards": [
           "1795000 XP",
-          "1 \u00a7f\ue008\udb00\u00a7dAmberwalkers",
+          "1 \u00a7f\ue008\udb00\udc02\u00a7dAmberwalkers",
           "Various Items"
         ],
         "location": {
@@ -18071,7 +19921,7 @@
         },
         "rewards": [
           "1800000 XP",
-          "1 \u00a7f\ue008\udb00\u00a7dBuzzsaw Bracer",
+          "1 \u00a7f\ue008\udb00\udc02\u00a7dBuzzsaw Bracer",
           "Various Items"
         ],
         "location": {
@@ -18141,7 +19991,7 @@
         },
         "rewards": [
           "550000 XP",
-          "1 \u00a7f\ue008\udb00\u00a7bRadiation",
+          "1 \u00a7f\ue008\udb00\udc02\u00a7bRadiation",
           "Various Items"
         ],
         "location": {
@@ -18556,7 +20406,7 @@
         },
         "rewards": [
           "500000 XP",
-          "1 \u00a7f\ue008\udb00\u00a7bEquinox Blossom",
+          "1 \u00a7f\ue008\udb00\udc02\u00a7bEquinox Blossom",
           "Various Items"
         ],
         "location": {
@@ -18696,7 +20546,7 @@
         "rewards": [
           "340 XP",
           "64 Emeralds",
-          "1 \u00a7f\ue008\udb00\u00a7bSpiketop",
+          "1 \u00a7f\ue008\udb00\udc02\u00a7bSpiketop",
           "Various Items"
         ],
         "location": {
@@ -18790,7 +20640,7 @@
         },
         "rewards": [
           "180 XP",
-          "1 \u00a7f\ue008\udb00\u00a7eRusted Bracelet",
+          "1 \u00a7f\ue008\udb00\udc02\u00a7eRusted Bracelet",
           "Various Items"
         ],
         "location": {
@@ -19022,7 +20872,7 @@
         },
         "rewards": [
           "300 XP",
-          "1 \u00a7f\ue008\udb00\u00a7eSpiked Cleats",
+          "1 \u00a7f\ue008\udb00\udc02\u00a7eSpiked Cleats",
           "Various Items"
         ],
         "location": {
@@ -19184,7 +21034,7 @@
         },
         "rewards": [
           "1975000 XP",
-          "1 \u00a7f\ue008\udb00\u00a7dStormleader",
+          "1 \u00a7f\ue008\udb00\udc02\u00a7dStormleader",
           "Various Items"
         ],
         "location": {
@@ -19254,7 +21104,7 @@
         },
         "rewards": [
           "4657000 XP",
-          "1 \u00a7f\ue008\udb00\u00a7bEntozoon Maw",
+          "1 \u00a7f\ue008\udb00\udc02\u00a7bEntozoon Maw",
           "Various Items"
         ],
         "location": {
@@ -19278,7 +21128,7 @@
         },
         "rewards": [
           "6475000 XP",
-          "1 \u00a7f\ue008\udb00\u00a7dMarble Core",
+          "1 \u00a7f\ue008\udb00\udc02\u00a7dMarble Core",
           "Various Items"
         ],
         "location": {
@@ -19302,7 +21152,7 @@
         },
         "rewards": [
           "2000000 XP",
-          "1 \u00a7f\ue008\udb00\u00a7bMyopia",
+          "1 \u00a7f\ue008\udb00\udc02\u00a7bMyopia",
           "Various Items"
         ],
         "location": {
@@ -19397,7 +21247,7 @@
         },
         "rewards": [
           "30000 XP",
-          "1 \u00a7f\ue008\udb00\u00a7dClaws of Atypical Expanse",
+          "1 \u00a7f\ue008\udb00\udc02\u00a7dClaws of Atypical Expanse",
           "3 \u00a7#b0f3fcffAz Runes",
           "Various Items"
         ],
@@ -19491,7 +21341,7 @@
         },
         "rewards": [
           "3881000 XP",
-          "1 \u00a7f\ue008\udb00\u00a7dFreight Trainer",
+          "1 \u00a7f\ue008\udb00\udc02\u00a7dFreight Trainer",
           "Various Items"
         ],
         "location": {
@@ -19515,7 +21365,7 @@
         },
         "rewards": [
           "110 XP",
-          "1 \u00a7f\ue008\udb00\u00a7dLeaf Boots",
+          "1 \u00a7f\ue008\udb00\udc02\u00a7dLeaf Boots",
           "Various Items"
         ],
         "location": {
@@ -19585,7 +21435,7 @@
         },
         "rewards": [
           "400000 XP",
-          "1 \u00a7f\ue008\udb00\u00a7dGeode Fluxplate",
+          "1 \u00a7f\ue008\udb00\udc02\u00a7dGeode Fluxplate",
           "Various Items"
         ],
         "location": {
@@ -19609,7 +21459,7 @@
         },
         "rewards": [
           "6855000 XP",
-          "1 \u00a7f\ue008\udb00\u00a7bEmbrittlement",
+          "1 \u00a7f\ue008\udb00\udc02\u00a7bEmbrittlement",
           "Various Items"
         ],
         "location": {
@@ -19703,7 +21553,7 @@
         "rewards": [
           "16000 XP",
           "1 \u00a7#20aa20ffLunar Charm",
-          "1 \u00a7f\ue008\udb00\u00a7bNew Moon",
+          "1 \u00a7f\ue008\udb00\udc02\u00a7bNew Moon",
           "Various Items"
         ],
         "location": {
@@ -19774,7 +21624,7 @@
         "rewards": [
           "1500 XP",
           "192 Emeralds",
-          "1 \u00a7f\ue008\udb00\u00a7bHex-Master Anchor",
+          "1 \u00a7f\ue008\udb00\udc02\u00a7bHex-Master Anchor",
           "Various Items"
         ],
         "location": {
@@ -19961,7 +21811,7 @@
         },
         "rewards": [
           "400000 XP",
-          "1 \u00a7f\ue008\udb00\u00a7dClockwork Manifold",
+          "1 \u00a7f\ue008\udb00\udc02\u00a7dClockwork Manifold",
           "Various Items"
         ],
         "location": {
@@ -20123,7 +21973,7 @@
         },
         "rewards": [
           "22000 XP",
-          "1 \u00a7f\ue008\udb00\u00a7dWater Lily",
+          "1 \u00a7f\ue008\udb00\udc02\u00a7dWater Lily",
           "2 \u00a7#b0f3fcffAz Runes",
           "Various Items"
         ],
@@ -20194,7 +22044,7 @@
         },
         "rewards": [
           "700 XP",
-          "1 \u00a7f\ue008\udb00\u00a7dCoeur Brise",
+          "1 \u00a7f\ue008\udb00\udc02\u00a7dCoeur Brise",
           "Various Items"
         ],
         "location": {
@@ -20311,7 +22161,7 @@
         },
         "rewards": [
           "400 XP",
-          "1 \u00a7f\ue008\udb00\u00a7eAerolia Boots",
+          "1 \u00a7f\ue008\udb00\udc02\u00a7eAerolia Boots",
           "Various Items"
         ],
         "location": {
@@ -20404,7 +22254,7 @@
         },
         "rewards": [
           "30000 XP",
-          "1 \u00a7f\ue008\udb00\u00a7dSerpentine",
+          "1 \u00a7f\ue008\udb00\udc02\u00a7dSerpentine",
           "2 \u00a7#b0f3fcffAz Runes",
           "Various Items"
         ],
@@ -20498,7 +22348,7 @@
         },
         "rewards": [
           "7120000 XP",
-          "1 \u00a7f\ue008\udb00\u00a7dStudhorn",
+          "1 \u00a7f\ue008\udb00\udc02\u00a7dStudhorn",
           "Various Items"
         ],
         "location": {
@@ -20545,8 +22395,8 @@
         },
         "rewards": [
           "200 XP",
-          "1 \u00a7f\ue008\udb00\u00a7dLeaf Cap",
-          "1 \u00a7f\ue008\udb00\u00a7dLeaf Tunic",
+          "1 \u00a7f\ue008\udb00\udc02\u00a7dLeaf Cap",
+          "1 \u00a7f\ue008\udb00\udc02\u00a7dLeaf Tunic",
           "Various Items"
         ],
         "location": {
@@ -20593,7 +22443,7 @@
         },
         "rewards": [
           "700000 XP",
-          "1 \u00a7f\ue008\udb00\u00a7dAlpenglow",
+          "1 \u00a7f\ue008\udb00\udc02\u00a7dAlpenglow",
           "Various Items"
         ],
         "location": {
@@ -20618,7 +22468,7 @@
         "rewards": [
           "40 XP",
           "13 Emeralds",
-          "1 \u00a7f\ue008\udb00\u00a7eBlank",
+          "1 \u00a7f\ue008\udb00\udc02\u00a7eBlank",
           "Various Items"
         ],
         "location": {
@@ -20780,7 +22630,7 @@
         },
         "rewards": [
           "210 XP",
-          "1 \u00a7f\ue008\udb00\u00a7eWarmth",
+          "1 \u00a7f\ue008\udb00\udc02\u00a7eWarmth",
           "Various Items"
         ],
         "location": {
@@ -20804,7 +22654,7 @@
         },
         "rewards": [
           "10000 XP",
-          "1 \u00a7f\ue008\udb00\u00a7bLingering Twilight",
+          "1 \u00a7f\ue008\udb00\udc02\u00a7bLingering Twilight",
           "Various Items"
         ],
         "location": {
@@ -20920,7 +22770,7 @@
         },
         "rewards": [
           "200 XP",
-          "1 \u00a7f\ue008\udb00\u00a7dLeaf Pants",
+          "1 \u00a7f\ue008\udb00\udc02\u00a7dLeaf Pants",
           "Various Items"
         ],
         "location": {
@@ -20967,7 +22817,7 @@
         },
         "rewards": [
           "6250000 XP",
-          "1 \u00a7f\ue008\udb00\u00a7bArachnid Effigy",
+          "1 \u00a7f\ue008\udb00\udc02\u00a7bArachnid Effigy",
           "5 \u00a7#20aa20ffSaltpetres",
           "Various Items"
         ],
@@ -21084,7 +22934,7 @@
         },
         "rewards": [
           "30000 XP",
-          "1 \u00a7f\ue008\udb00\u00a7dSewer Slugger",
+          "1 \u00a7f\ue008\udb00\udc02\u00a7dSewer Slugger",
           "3 \u00a7#b0f3fcffAz Runes",
           "Various Items"
         ],
@@ -21248,7 +23098,7 @@
         },
         "rewards": [
           "30000 XP",
-          "1 \u00a7f\ue008\udb00\u00a7dCoal Cadaver",
+          "1 \u00a7f\ue008\udb00\udc02\u00a7dCoal Cadaver",
           "2 \u00a7#b0f3fcffAz Runes",
           "Various Items"
         ],
@@ -21388,7 +23238,7 @@
         },
         "rewards": [
           "300 XP",
-          "1 \u00a7f\ue008\udb00\u00a7dSpore Cap",
+          "1 \u00a7f\ue008\udb00\udc02\u00a7dSpore Cap",
           "Various Items"
         ],
         "location": {
@@ -21435,7 +23285,7 @@
         },
         "rewards": [
           "800000 XP",
-          "1 \u00a7f\ue008\udb00\u00a7dHydrothermal",
+          "1 \u00a7f\ue008\udb00\udc02\u00a7dHydrothermal",
           "Various Items"
         ],
         "location": {
@@ -21505,7 +23355,7 @@
         },
         "rewards": [
           "10000 XP",
-          "1 \u00a7f\ue008\udb00\u00a7bSolar Sailers",
+          "1 \u00a7f\ue008\udb00\udc02\u00a7bSolar Sailers",
           "Various Items"
         ],
         "location": {
@@ -21921,7 +23771,7 @@
         },
         "rewards": [
           "7500000 XP",
-          "1 \u00a7f\ue008\udb00\u00a7bTheatre Cane",
+          "1 \u00a7f\ue008\udb00\udc02\u00a7bTheatre Cane",
           "Various Items"
         ],
         "location": {
@@ -21968,7 +23818,7 @@
         },
         "rewards": [
           "125 XP",
-          "1 \u00a7f\ue008\udb00\u00a7eShark Tooth",
+          "1 \u00a7f\ue008\udb00\udc02\u00a7eShark Tooth",
           "Various Items"
         ],
         "location": {
@@ -22315,7 +24165,7 @@
         },
         "rewards": [
           "3500000 XP",
-          "1 \u00a7f\ue008\udb00\u00a7bTitanium Rifle",
+          "1 \u00a7f\ue008\udb00\udc02\u00a7bTitanium Rifle",
           "Various Items"
         ],
         "location": {
@@ -22362,7 +24212,7 @@
         },
         "rewards": [
           "140000 XP",
-          "1 \u00a7f\ue008\udb00\u00a7dParacausal",
+          "1 \u00a7f\ue008\udb00\udc02\u00a7dParacausal",
           "Various Items"
         ],
         "location": {
@@ -22488,11 +24338,7 @@
           "3 \u00a76Corrupted Decrepit\u00a7r \u00a76Sewers Fragment\u00a77s",
           "Various Items"
         ],
-        "location": {
-          "x": -261,
-          "y": 28,
-          "z": -1063
-        }
+        "location": null
       },
       {
         "type": "dungeon",
@@ -22513,11 +24359,7 @@
           "3 \u00a76Corrupted Galleon's\u00a7r \u00a76Graveyard Fragment\u00a77s",
           "Various Items"
         ],
-        "location": {
-          "x": -261,
-          "y": 28,
-          "z": -1063
-        }
+        "location": null
       },
       {
         "type": "dungeon",
@@ -22538,11 +24380,7 @@
           "3 \u00a76Corrupted Ice Barrows\u00a7r \u00a76Fragment\u00a77s",
           "Various Items"
         ],
-        "location": {
-          "x": -261,
-          "y": 28,
-          "z": -1063
-        }
+        "location": null
       },
       {
         "type": "dungeon",
@@ -22563,11 +24401,7 @@
           "3 \u00a76Corrupted Infested Pit\u00a7r \u00a76Fragment\u00a77s",
           "Various Items"
         ],
-        "location": {
-          "x": -261,
-          "y": 28,
-          "z": -1063
-        }
+        "location": null
       },
       {
         "type": "dungeon",
@@ -22588,11 +24422,7 @@
           "3 \u00a76Corrupted Lost Sanctuary\u00a7r \u00a76Fragment\u00a77s",
           "Various Items"
         ],
-        "location": {
-          "x": -261,
-          "y": 28,
-          "z": -1063
-        }
+        "location": null
       },
       {
         "type": "dungeon",
@@ -22613,11 +24443,7 @@
           "3 \u00a76Corrupted Sand-Swept\u00a7r \u00a76Tomb Fragment\u00a77s",
           "Various Items"
         ],
-        "location": {
-          "x": -261,
-          "y": 28,
-          "z": -1063
-        }
+        "location": null
       },
       {
         "type": "dungeon",
@@ -22638,11 +24464,7 @@
           "3 \u00a76Corrupted Undergrowth\u00a7r \u00a76Ruins Fragment\u00a77s",
           "Various Items"
         ],
-        "location": {
-          "x": -261,
-          "y": 28,
-          "z": -1063
-        }
+        "location": null
       },
       {
         "type": "dungeon",
@@ -22663,11 +24485,7 @@
           "3 \u00a76Corrupted Underworld\u00a7r \u00a76Crypt Fragment\u00a77s",
           "Various Items"
         ],
-        "location": {
-          "x": -261,
-          "y": 28,
-          "z": -1063
-        }
+        "location": null
       },
       {
         "type": "dungeon",
@@ -22689,9 +24507,9 @@
           "Various Items"
         ],
         "location": {
-          "x": -261,
-          "y": 28,
-          "z": -1063
+          "x": -926,
+          "y": 62,
+          "z": -1888
         }
       },
       {
@@ -22716,9 +24534,9 @@
           "Various Items"
         ],
         "location": {
-          "x": -261,
-          "y": 28,
-          "z": -1063
+          "x": 1285,
+          "y": 87,
+          "z": -753
         }
       },
       {
@@ -22743,9 +24561,9 @@
           "Various Items"
         ],
         "location": {
-          "x": -261,
-          "y": 28,
-          "z": -1063
+          "x": -1655,
+          "y": 88,
+          "z": -2603
         }
       },
       {
@@ -22767,7 +24585,11 @@
           "3 \u00a76Galleon's Graveyard\u00a7r \u00a76Fragment\u00a77s",
           "Various Items"
         ],
-        "location": null
+        "location": {
+          "x": -590,
+          "y": 39,
+          "z": -3534
+        }
       },
       {
         "type": "dungeon",
@@ -22789,9 +24611,9 @@
           "Various Items"
         ],
         "location": {
-          "x": -261,
-          "y": 28,
-          "z": -1063
+          "x": 134,
+          "y": 84,
+          "z": -639
         }
       },
       {
@@ -22814,9 +24636,9 @@
           "Various Items"
         ],
         "location": {
-          "x": -261,
-          "y": 28,
-          "z": -1063
+          "x": -199,
+          "y": 53,
+          "z": -1854
         }
       },
       {
@@ -22839,9 +24661,9 @@
           "Various Items"
         ],
         "location": {
-          "x": -261,
-          "y": 28,
-          "z": -1063
+          "x": 1428,
+          "y": 95,
+          "z": -1830
         }
       },
       {
@@ -22889,9 +24711,9 @@
           "Various Items"
         ],
         "location": {
-          "x": -261,
-          "y": 28,
-          "z": -1063
+          "x": -642,
+          "y": 73,
+          "z": -854
         }
       },
       {
@@ -22914,9 +24736,9 @@
           "Various Items"
         ],
         "location": {
-          "x": -261,
-          "y": 28,
-          "z": -1063
+          "x": 288,
+          "y": 16,
+          "z": -1952
         }
       }
     ]
@@ -22949,9 +24771,9 @@
           "Various Items"
         ],
         "location": {
-          "x": -261,
-          "y": 28,
-          "z": -1063
+          "x": -1977,
+          "y": 63,
+          "z": -5635
         }
       },
       {
@@ -22976,9 +24798,9 @@
           "Various Items"
         ],
         "location": {
-          "x": -261,
-          "y": 28,
-          "z": -1063
+          "x": -732,
+          "y": 100,
+          "z": -6438
         }
       },
       {
@@ -23004,9 +24826,9 @@
           "Various Items"
         ],
         "location": {
-          "x": -261,
-          "y": 28,
-          "z": -1063
+          "x": 693,
+          "y": 44,
+          "z": -4448
         }
       },
       {
@@ -23031,9 +24853,9 @@
           "Various Items"
         ],
         "location": {
-          "x": -261,
-          "y": 28,
-          "z": -1063
+          "x": 1068,
+          "y": 106,
+          "z": -824
         }
       },
       {
@@ -23059,9 +24881,9 @@
           "Various Items"
         ],
         "location": {
-          "x": -261,
-          "y": 28,
-          "z": -1063
+          "x": -1625,
+          "y": 140,
+          "z": -698
         }
       }
     ]
@@ -23073,7 +24895,7 @@
         "type": "bossAltar",
         "name": "Aerie of the Recluse",
         "specialInfo": "",
-        "description": "\u00a77The Avos have exiled those who utilize Corkian technology. For some, it isn't a choice to use it or not. \udb00Difficulty: Very Hard",
+        "description": "\u00a77The Avos have exiled those who utilize Corkian technology. For some, it isn't a choice to use it or not. \udb00\udc0eDifficulty: Very Hard",
         "length": null,
         "lengthInfo": "",
         "difficulty": null,
@@ -23084,16 +24906,16 @@
         },
         "rewards": [],
         "location": {
-          "x": -261,
-          "y": 28,
-          "z": -1063
+          "x": -1748,
+          "y": 64,
+          "z": -3073
         }
       },
       {
         "type": "bossAltar",
         "name": "Altar of Sanctification",
         "specialInfo": "",
-        "description": "\u00a77Hostile spirits must be exorcised by force. Someone long lost to madness and paranoia would be a long struggle. \udb00Difficulty: Very Hard",
+        "description": "\u00a77Hostile spirits must be exorcised by force. Someone long lost to madness and paranoia would be a long struggle. \udb00\udc0eDifficulty: Very Hard",
         "length": null,
         "lengthInfo": "",
         "difficulty": null,
@@ -23104,16 +24926,16 @@
         },
         "rewards": [],
         "location": {
-          "x": -261,
-          "y": 28,
-          "z": -1063
+          "x": -911,
+          "y": 24,
+          "z": -623
         }
       },
       {
         "type": "bossAltar",
         "name": "Arena of the Legends",
         "specialInfo": "",
-        "description": "\u00a77The Temple of the Legends' soldiers undergo the most rigorous training in all of Wynn, and the results speak for themselves. \udb00Difficulty: Very Hard",
+        "description": "\u00a77The Temple of the Legends' soldiers undergo the most rigorous training in all of Wynn, and the results speak for themselves. \udb00\udc0eDifficulty: Very Hard",
         "length": null,
         "lengthInfo": "",
         "difficulty": null,
@@ -23126,16 +24948,16 @@
         },
         "rewards": [],
         "location": {
-          "x": -261,
-          "y": 28,
-          "z": -1063
+          "x": -692,
+          "y": 73,
+          "z": -1068
         }
       },
       {
         "type": "bossAltar",
         "name": "Bottomless Pit",
         "specialInfo": "",
-        "description": "\u00a77How many old artifacts have fallen into the places where the earth opened up? Trying to enter those depths is a suicide mission. \udb00Difficulty: Very Hard",
+        "description": "\u00a77How many old artifacts have fallen into the places where the earth opened up? Trying to enter those depths is a suicide mission. \udb00\udc0eDifficulty: Very Hard",
         "length": null,
         "lengthInfo": "",
         "difficulty": null,
@@ -23148,16 +24970,16 @@
         },
         "rewards": [],
         "location": {
-          "x": -261,
-          "y": 28,
-          "z": -1063
+          "x": 1332,
+          "y": 12,
+          "z": -528
         }
       },
       {
         "type": "bossAltar",
         "name": "Bovine Barn",
         "specialInfo": "",
-        "description": "\u00a77Most people don't think Bovemists revere cows for a good reason. The people around here know better, and leave offerings regularly. \udb00Difficulty: Very Hard",
+        "description": "\u00a77Most people don't think Bovemists revere cows for a good reason. The people around here know better, and leave offerings regularly. \udb00\udc0eDifficulty: Very Hard",
         "length": null,
         "lengthInfo": "",
         "difficulty": null,
@@ -23168,16 +24990,16 @@
         },
         "rewards": [],
         "location": {
-          "x": -926,
-          "y": 62,
-          "z": -1888
+          "x": 471,
+          "y": 43,
+          "z": -2911
         }
       },
       {
         "type": "bossAltar",
         "name": "Challenge of the Blades",
         "specialInfo": "",
-        "description": "\u00a77Things that lurk in the dark still hold fears. There's no rule that says the rulers of night can't turn on each other for power. \udb00Difficulty: Very Hard",
+        "description": "\u00a77Things that lurk in the dark still hold fears. There's no rule that says the rulers of night can't turn on each other for power. \udb00\udc0eDifficulty: Very Hard",
         "length": null,
         "lengthInfo": "",
         "difficulty": null,
@@ -23188,16 +25010,16 @@
         },
         "rewards": [],
         "location": {
-          "x": -261,
-          "y": 28,
-          "z": -1063
+          "x": -807,
+          "y": 75,
+          "z": -5390
         }
       },
       {
         "type": "bossAltar",
         "name": "Deserter's Refuge",
         "specialInfo": "",
-        "description": "\u00a77Those in the highest positions of Her Majesty's Guard may get peeks through the cracks in their worldview, but only the strongest among them are capable of the introspection needed to break through. \udb00Difficulty: Very Hard",
+        "description": "\u00a77Those in the highest positions of Her Majesty's Guard may get peeks through the cracks in their worldview, but only the strongest among them are capable of the introspection needed to break through. \udb00\udc0eDifficulty: Very Hard",
         "length": null,
         "lengthInfo": "",
         "difficulty": null,
@@ -23210,16 +25032,16 @@
         },
         "rewards": [],
         "location": {
-          "x": -926,
-          "y": 62,
-          "z": -1888
+          "x": -1728,
+          "y": 139,
+          "z": -947
         }
       },
       {
         "type": "bossAltar",
         "name": "Geyser Pit",
         "specialInfo": "",
-        "description": "\u00a77Despermechs have a nasty tendency to get into any place they can find. Plenty have dug too deep and destroyed themselves. \udb00Difficulty: Very Hard",
+        "description": "\u00a77Despermechs have a nasty tendency to get into any place they can find. Plenty have dug too deep and destroyed themselves. \udb00\udc0eDifficulty: Very Hard",
         "length": null,
         "lengthInfo": "",
         "difficulty": null,
@@ -23230,16 +25052,16 @@
         },
         "rewards": [],
         "location": {
-          "x": -1655,
-          "y": 81,
-          "z": -2603
+          "x": -1573,
+          "y": 27,
+          "z": -3204
         }
       },
       {
         "type": "bossAltar",
         "name": "Magmastream Core",
         "specialInfo": "",
-        "description": "\u00a77Powerful sources of magic change their surroundings in unexpected ways. In some cases, it can feel like the land is a vessel for the 'life' of magic. \udb00Difficulty: Very Hard",
+        "description": "\u00a77Powerful sources of magic change their surroundings in unexpected ways. In some cases, it can feel like the land is a vessel for the 'life' of magic. \udb00\udc0eDifficulty: Very Hard",
         "length": null,
         "lengthInfo": "",
         "difficulty": null,
@@ -23250,16 +25072,16 @@
         },
         "rewards": [],
         "location": {
-          "x": -261,
-          "y": 28,
-          "z": -1063
+          "x": -1034,
+          "y": 97,
+          "z": -3651
         }
       },
       {
         "type": "bossAltar",
         "name": "Plague Laboratory",
         "specialInfo": "",
-        "description": "\u00a77Immortality is a tricky aspect to distill, so it's best to start small. Malleable subjects make it easier. \udb00Difficulty: Very Hard",
+        "description": "\u00a77Immortality is a tricky aspect to distill, so it's best to start small. Malleable subjects make it easier. \udb00\udc0eDifficulty: Very Hard",
         "length": null,
         "lengthInfo": "",
         "difficulty": null,
@@ -23270,16 +25092,16 @@
         },
         "rewards": [],
         "location": {
-          "x": -926,
-          "y": 62,
-          "z": -1888
+          "x": -1833,
+          "y": 46,
+          "z": -5266
         }
       },
       {
         "type": "bossAltar",
         "name": "Prison of Souls",
         "specialInfo": "",
-        "description": "\u00a77The Twains' efforts in settling spirits wasn't without risk. Spiritual bonds break without someone to maintain them. \udb00Difficulty: Very Hard",
+        "description": "\u00a77The Twains' efforts in settling spirits wasn't without risk. Spiritual bonds break without someone to maintain them. \udb00\udc0eDifficulty: Very Hard",
         "length": null,
         "lengthInfo": "",
         "difficulty": null,
@@ -23290,16 +25112,16 @@
         },
         "rewards": [],
         "location": {
-          "x": -926,
-          "y": 62,
-          "z": -1888
+          "x": 50,
+          "y": 68,
+          "z": -486
         }
       },
       {
         "type": "bossAltar",
         "name": "Rotten Passage",
         "specialInfo": "",
-        "description": "\u00a77Corrupteds and undead rarely present a unified front. Whenever they do, it's usually evidence of a controlling force. \udb00Difficulty: Very Hard",
+        "description": "\u00a77Corrupteds and undead rarely present a unified front. Whenever they do, it's usually evidence of a controlling force. \udb00\udc0eDifficulty: Very Hard",
         "length": null,
         "lengthInfo": "",
         "difficulty": null,
@@ -23312,16 +25134,16 @@
         },
         "rewards": [],
         "location": {
-          "x": -926,
-          "y": 62,
-          "z": -1888
+          "x": 337,
+          "y": 38,
+          "z": -2038
         }
       },
       {
         "type": "bossAltar",
         "name": "Sunrise Canyon",
         "specialInfo": "",
-        "description": "\u00a77The Creden Tibus are disorganized enough that not all bandits ascribe to their rule, but not many of them are skilled enough to make it on their own. \udb00Difficulty: Very Hard",
+        "description": "\u00a77The Creden Tibus are disorganized enough that not all bandits ascribe to their rule, but not many of them are skilled enough to make it on their own. \udb00\udc0eDifficulty: Very Hard",
         "length": null,
         "lengthInfo": "",
         "difficulty": null,
@@ -23332,16 +25154,16 @@
         },
         "rewards": [],
         "location": {
-          "x": -926,
-          "y": 62,
-          "z": -1888
+          "x": 1412,
+          "y": 99,
+          "z": -1462
         }
       },
       {
         "type": "bossAltar",
         "name": "Tribal Sanctuary",
         "specialInfo": "",
-        "description": "\u00a77Even leaders revered for their accomplishments shouldn't be propped up as perfect. The Iboju people know this well now. \udb00Difficulty: Very Hard",
+        "description": "\u00a77Even leaders revered for their accomplishments shouldn't be propped up as perfect. The Iboju people know this well now. \udb00\udc0eDifficulty: Very Hard",
         "length": null,
         "lengthInfo": "",
         "difficulty": null,
@@ -23352,16 +25174,16 @@
         },
         "rewards": [],
         "location": {
-          "x": -261,
-          "y": 28,
-          "z": -1063
+          "x": -708,
+          "y": 57,
+          "z": -660
         }
       },
       {
         "type": "bossAltar",
         "name": "Unknown Area",
         "specialInfo": "",
-        "description": "\u00a77There is no information available about this region. \udb00Difficulty: Very Hard",
+        "description": "\u00a77There is no information available about this region. \udb00\udc0eDifficulty: Very Hard",
         "length": null,
         "lengthInfo": "",
         "difficulty": null,
@@ -23372,9 +25194,9 @@
         },
         "rewards": [],
         "location": {
-          "x": -261,
-          "y": 28,
-          "z": -1063
+          "x": 1323,
+          "y": 33,
+          "z": -4611
         }
       }
     ]
@@ -23397,9 +25219,9 @@
         },
         "rewards": [],
         "location": {
-          "x": -1655,
-          "y": 81,
-          "z": -2603
+          "x": 578,
+          "y": 79,
+          "z": -5018
         }
       },
       {
@@ -23417,9 +25239,9 @@
         },
         "rewards": [],
         "location": {
-          "x": -1655,
-          "y": 81,
-          "z": -2603
+          "x": 1272,
+          "y": 10,
+          "z": -5135
         }
       },
       {
@@ -23437,9 +25259,9 @@
         },
         "rewards": [],
         "location": {
-          "x": 1285,
-          "y": 87,
-          "z": -753
+          "x": 991,
+          "y": 77,
+          "z": -781
         }
       },
       {
@@ -23457,9 +25279,9 @@
         },
         "rewards": [],
         "location": {
-          "x": 1285,
-          "y": 87,
-          "z": -753
+          "x": 1034,
+          "y": 135,
+          "z": -4419
         }
       },
       {
@@ -23477,9 +25299,9 @@
         },
         "rewards": [],
         "location": {
-          "x": -1655,
-          "y": 81,
-          "z": -2603
+          "x": -1555,
+          "y": 97,
+          "z": -2668
         }
       },
       {
@@ -23497,9 +25319,9 @@
         },
         "rewards": [],
         "location": {
-          "x": -1655,
-          "y": 81,
-          "z": -2603
+          "x": -1295,
+          "y": 75,
+          "z": -1147
         }
       },
       {
@@ -23517,9 +25339,9 @@
         },
         "rewards": [],
         "location": {
-          "x": -1655,
-          "y": 81,
-          "z": -2603
+          "x": -2023,
+          "y": 4,
+          "z": -776
         }
       }
     ]
